@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "New street, New world",
+  "base_artist": "ROF-MAO",
+  "createdAt": "2025-12-27T08:48:27.496338Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "New street, New world",
+      "artist": "ROF-MAO",
+      "has_synced": true,
+      "path": "select/01_New_street,_New_world_ROF-MAO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "New street, New world (Instrumental)",
+      "artist": "ROF-MAO",
+      "has_synced": false,
+      "path": "select/02_New_street,_New_world_(Instrumental)_ROF-MAO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "New street, New world",
+      "artist": "ROF-MAO",
+      "has_synced": true,
+      "path": "select/03_New_street,_New_world_ROF-MAO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New street, New world",
+      "artist": "ROF-MAO",
+      "has_synced": false,
+      "path": "select/pl_01_New_street,_New_world_ROF-MAO.txt"
+    }
+  ]
+}
